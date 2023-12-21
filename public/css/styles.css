@@ -1,0 +1,37 @@
+
+body {
+    background-color: #FFF6F6;
+    text-align: center;
+}
+
+h2{
+    margin-top: 7%;
+
+}
+
+.heading {
+    font-family: Montserrat;
+    font-weight: bolder;
+}
+
+.main-box {
+    background-color: #FFD1DA;
+    margin-top: 5%;
+    margin-left: 40%;
+    height: 30rem;
+    width: 20rem;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+.openinapp-logo {
+    margin-top: 10%;
+    margin-left: auto;
+    border-style: none;
+    border-radius: 2rem;
+    
+}
+
+.login-button {
+    margin-top: 40%;
+}
